@@ -1,0 +1,54 @@
+//
+//  MoveShoppingMall_Prefix.pch
+//  MoveShoppingMall
+//
+//  Created by 庞宏侠 on 17/2/7.
+//  Copyright © 2017年 ckys. All rights reserved.
+//
+
+#ifndef MoveShoppingMall_Prefix_pch
+#define MoveShoppingMall_Prefix_pch
+
+#import <UIKit/UIKit.h>
+#import "AppDelegate.h"
+#import <Foundation/foundation.h>
+#import "RequestManager.h"
+#import "SCCommon.h"
+#import "common.h"
+#import "RootTabBarController.h"
+#import "JGProgressHUD.h"
+#import "Masonry.h"
+#import "MJRefresh.h"
+#import "MJExtension.h"
+#import "HttpTool.h"
+#import "UIImageView+WebCache.h"
+#import "UIButton+WebCache.h"
+#import "UILabel+configure.h"
+#import "IQKeyboardManager.h"
+#import "UIView+Extension.h"
+#import "TTAttibuteLabel.h"
+#import <WebKit/WebKit.h>
+#import "UIColor+Extension.h" //颜色配置
+#import "NSDecimalNumber+Addtion.h"
+#import "UIButton+Common.h"
+#import "NSString+Common.h"
+#import "UIImage+Common.h"
+#import "NSDate+Common.h"
+#import "UIViewController+CurrentVC.h"
+#import "SectionModel.h"
+#import "CellModel.h"
+#import "CacheData.h"
+#import "UITableView+PlaceHolder.h"
+#import "UICollectionView+PlaceHolder.h"
+#import "DefaultValue.h"
+#import "NodataLableView.h"
+#import "getUUID.h"
+#import "MJGearHeader.h"
+#import "UIBarButtonItem+SXCreate.h"
+#import "ChatMessageViewController.h"
+#import "SobotManager.h"
+#import "SCEnterRCloudOrToothManager.h"
+#import "SCCouponTools.h"
+#import "XNArchiverManager.h"
+#import "JPUSHService.h"
+#endif /* MoveShoppingMall_Prefix_pch */
