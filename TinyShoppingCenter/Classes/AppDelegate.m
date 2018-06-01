@@ -37,7 +37,7 @@
 @end
 
 @implementation AppDelegate
-// 测试修改
+// 测试修改发送到发
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
     if ([[CKVersionCheckManager shareInstance] isFirstLoadCurrentVersion]) {
